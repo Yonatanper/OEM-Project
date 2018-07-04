@@ -1,0 +1,245 @@
+
+
+
+
+[info] [2018/7/3 10:56:35]  Start SavedLogin Request...
+[info] [2018/7/3 10:56:35]  Login Seccsefully true
+[info] [2018/7/3 10:56:35]  Start SecurityToken Request...
+[info] [2018/7/3 10:56:35]  SecurityToken is: 2773422D1FAAE61142FFE7EA27A43A81FDD0CFFC56065DC3CEAE2472EA2FBEA633716FA773EE3F6E38A307313EF056E56C8674CEE6DB7D1626F9354D96BE13FABDFE7B10B9D852 
+Cookie: JSESSIONID=C049F8B97A85E8BCDCDCA51B57E351B4
+[info] [2018/7/3 10:56:35]  Start CompanyTemplateRepo request...
+[info] [2018/7/3 10:56:36]  Company Template Repo ID: 1069
+[info] [2018/7/3 10:56:36]  Start BackupPath request...
+[info] [2018/7/3 10:56:36]  Backup path01: [object Object]
+[info] [2018/7/3 10:56:36]  Backup path11: [object Object]
+[info] [2018/7/3 10:56:36]  Backup path21: [object Object]
+[info] [2018/7/3 10:56:36]  Backup path31: [object Object]
+[info] [2018/7/3 10:56:36]  Start ImplementationRepo request...
+[info] [2018/7/3 10:56:36]  Implementation Repo ID: 1062
+[info] [2018/7/3 10:56:36]  Start PackagePath request...
+[info] [2018/7/3 10:56:37]  Package path01: [object Object]
+[info] [2018/7/3 10:56:37]  Start CommonDB Request...
+[info] [2018/7/3 10:56:37]  Common Database #: 1235
+[info] [2018/7/3 10:56:37]  Start LocalizationLists Request...
+[info] [2018/7/3 10:56:37]  Localization Lists are: AR,Argentina,AT,Austria,AU,Australia/New Zealand,BE,Belgium,BR,Brazil,CA,Canada,CH,Switzerland,CL,Chile,CN,P.R.China/Hong-Kong,CR,Costa Rica,CY,Cyprus,CZ,Czech Rep.,DE,Germany,DK,Denmark,ES,Spain,FI,Finland,FR,France,GB,United Kingdom/Ireland,GR,Greece,GT,Guatemala,HU,Hungary,IL,Israel,IN,India,IT,Italy,JP,Japan,KR,South Korea,MX,Mexico,NL,Netherlands,NO,Norway,PA,Panama,PL,Poland,PT,Portugal,RU,Russia,SE,Sweden,SG,Singapore,SK,Slovakia,TR,Turkey,US,United States Of America/Puerto Rico,ZA,South Africa
+[info] [2018/7/3 10:56:37]  Start SoftwareRepositories Request...
+[info] [2018/7/3 10:56:38]  Software Repository is: 1052
+[info] [2018/7/3 10:56:38]  Start Languages Request...
+[info] [2018/7/3 10:56:38]  Languages: English (United States),3,German,9,Simplified Chinese (P.R.China),15,Japanese(Japan),30,Dutch (Netherlands),16,Turkish,31,Arabic,32,French,22,Korean(Korea),28,Portuguese,19,Finnish (Finland),17,Norwegian (Norway),12,English (United Kingdom),8,Italian (Italy),13,Slovak (Slovakia),27,Spanish (Latin America),25,Swedish (Sweden),20,Greek (Greece),18,Spanish (Spain),23,Polish (Poland),5,Czech (Czech),26,Russian (Russia),24,Danish (Denmark),11,Hebrew (Israel),1,Hungarian (Hungary),14,Traditional Chinese,35,Portuguese (Brazil),29
+[info] [2018/7/3 10:56:38]  Start ExtensionsDeployID request...
+[info] [2018/7/3 10:56:38]  ExtensionDeployments is: 8
+[info] [2018/7/3 10:56:38]  Start ExtensionsDeployID request...
+[info] [2018/7/3 10:56:39]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.181.08", "Platform" : "U", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\DatevLW.zip", "XAppName" : null, "Vendor" : "SAP", "Name" : "DatevLW", "ID" : 1, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/3 10:56:39]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : false, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.181.08", "Platform" : "U", "Path" : "\\\\x3\\temp\\Extensions\\Repository\\SAP\\PaymentLW\\920.181.08", "XAppName" : null, "Vendor" : "SAP", "Name" : "PaymentLW", "ID" : 6, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/3 10:56:39]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\EFM Format Definition", "XAppName" : null, "Vendor" : "SAP", "Name" : "EFM Format Definition", "ID" : 2, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/3 10:56:39]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\ScreenPainter", "XAppName" : null, "Vendor" : "SAP", "Name" : "Screen Painter", "ID" : 3, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/3 10:56:39]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "", "XAppName" : null, "Vendor" : "SAP", "Name" : "SBOScript", "ID" : 5, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)/ExtensionProperties"
+}
+}
+}
+}
+
+
+
+
+[info] [2018/7/3 15:51:06]  Start SavedLogin Request...
+[info] [2018/7/3 15:51:07]  Login Seccsefully true
+[info] [2018/7/3 15:51:07]  Start SecurityToken Request...
+[info] [2018/7/3 15:51:07]  SecurityToken is: 70D93268AB59F5DBAD57BB35FB29A4A0646A34DDB06415013FA830387EF71E4B6681AC50AF2E8463893B4DAC5220E7468AE2CCE12DB982EDAE436DDB6DFAF92E8D47A7CD007E92 
+Cookie: JSESSIONID=01DFEABA96889B5C3278B77AC88FB60B
+[info] [2018/7/3 15:51:07]  Start Operators request...
+[info] [2018/7/3 15:51:07]  username free to use: yonatanschonam55
+[info] [2018/7/3 15:51:48]  Start SavedLogin Request...
+[info] [2018/7/3 15:51:48]  Login Seccsefully true
+[info] [2018/7/3 15:51:48]  Start SecurityToken Request...
+[info] [2018/7/3 15:51:48]  SecurityToken is: CABAB6821166E00E70916DAE3D30279CDB894146360F110E519B196CD7565A44C1E541F2237889C857F15B2ED5A90AEC5C25898D954B3BF17E65FC55781EB108F1BD04EDDB2017 
+Cookie: JSESSIONID=6E6727EEF508CE317D9DE9C1E0497E6E
+[info] [2018/7/3 15:51:48]  Start Operators request...
+[info] [2018/7/3 15:51:49]  username free to use: yonatanschonam55
+
+
+
+
+
+
+[info] [2018/7/3 17:35:51]  Start SavedLogin Request...
+[info] [2018/7/3 17:35:51]  Login Seccsefully true
+[info] [2018/7/3 17:35:51]  Start SecurityToken Request...
+[info] [2018/7/3 17:35:52]  SecurityToken is: 69F3A17684BA43C2AA0907A4BE3EE6EB04419AE9985EA466A54EDD8CCDBDD0BBCF39CA39A25989F9BB88C2347303E826FC8392057D95AE4378CC7A655A36D9911BB0D48F87C4BC 
+Cookie: JSESSIONID=CB56BBAAE23B9FBA6CD8736F9000DB8C
+[info] [2018/7/3 17:35:52]  Start Operators request...
+[info] [2018/7/3 17:35:52]  username free to use: yonatanschonam55
+
+
+[info] [2018/7/3 17:36:30]  Start SavedLogin Request...
+[info] [2018/7/3 17:36:31]  Login Seccsefully true
+[info] [2018/7/3 17:36:31]  Start SecurityToken Request...
+[info] [2018/7/3 17:36:31]  SecurityToken is: 1E9860E38F252FE4E5F08D87022FD4F10B550D81732FFFC1D87DAEF07E45686EEBE817E9C6689B2EC4075F52AF51EE3FF81D1918D9FCF5B17152B007380E995872016FFC7DEE6F 
+Cookie: JSESSIONID=6F5E0EA04E430945DD80E50BA0748741
+[info] [2018/7/3 17:36:31]  Start Operators request...
+[info] [2018/7/3 17:36:31]  username free to use: yonatanschonam55
+[info] [2018/7/3 17:36:54]  Start SavedLogin Request...
+[info] [2018/7/3 17:36:55]  Login Seccsefully true
+[info] [2018/7/3 17:36:55]  Start SecurityToken Request...
+[info] [2018/7/3 17:36:55]  SecurityToken is: 4910C6F2BB64B5F3C9C513032AEBE0AE70B463FBE53DB8FE660017481DAB03280F56AFBBE10C0C9ACCAEB15604B78F349858F437CF046D97CDB372EF7A202F75BF72C4CD0F2BCD 
+Cookie: JSESSIONID=253FFC5FC5B4BA6244E2638C83CA2261
+[info] [2018/7/3 17:36:55]  Start Operators request...
+[info] [2018/7/3 17:36:55]  username free to use: yonatanschonam55
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[info] [2018/7/3 18:04:19]  Start SavedLogin Request...
+[info] [2018/7/3 18:04:20]  Login Seccsefully true
+[info] [2018/7/3 18:04:20]  Start SecurityToken Request...
+[info] [2018/7/3 18:04:20]  SecurityToken is: 90D913F05D0DC7288B6F6955596A2077837A8CD6BAC704996330B6CB9413736F625981B0B958FB9A4F776A81927844E4B1E2C2ABF8AA07C7CBD2717A46B480FB09FD693D6D1F53 
+Cookie: JSESSIONID=052A200591FCBAA2C8D1586D9A56A183
+[info] [2018/7/3 18:04:20]  Start Operators request...
+[info] [2018/7/3 18:04:20]  username free to use: yonatanschonam55
+[info] [2018/7/3 18:04:45]  Start SavedLogin Request...
+[info] [2018/7/3 18:04:45]  Login Seccsefully true
+[info] [2018/7/3 18:04:45]  Start SecurityToken Request...
+[info] [2018/7/3 18:04:45]  SecurityToken is: 0660E06F06EF8CB3AC0616D5E6BC285365D19D4DE2FDD246382A68489D469D3F334EA4CFC30D329FE9198BCA24B021CAD9AEBF5086A3B3CC6FE86FAA8F275A5D74C0DA015C845F 
+Cookie: JSESSIONID=93CA0C950EC28D097EEDFBE1B9C1B1DC
+[info] [2018/7/3 18:04:45]  Start Operators request...
+[info] [2018/7/3 18:04:46]  username free to use: yonatanschonam55
+[info] [2018/7/3 18:05:05]  Start SavedLogin Request...
+[info] [2018/7/3 18:05:05]  Login Seccsefully true
+[info] [2018/7/3 18:05:05]  Start SecurityToken Request...
+[info] [2018/7/3 18:05:06]  SecurityToken is: 4089D7EF5086C56FA8B5A281EAFD68E9FF1DD6486C751CDE52628C8725C5A99C4A9301B0FA68E419BF6091107C7A5B210017C3AD67E32A3860336DF21A637E362BCE62A67D25CB 
+Cookie: JSESSIONID=CEF65AD919EF7231DB245F09F3EB9A83
+[info] [2018/7/3 18:05:06]  Start Operators request...
+[info] [2018/7/3 18:05:06]  username free to use: yonatanschonam55
+[info] [2018/7/3 18:05:50]  Start SavedLogin Request...
+[info] [2018/7/3 18:05:51]  Login Seccsefully true
+[info] [2018/7/3 18:05:51]  Start SecurityToken Request...
+[info] [2018/7/3 18:05:51]  SecurityToken is: 7BCAEC6B73C57AD5AD25A893EAB6B91C3FD04827223F7D176284050DBE892F957FBCF73E4F14AADBD1B9A62878799EB957D84B4C1D14BDC5488425BAB0E12B3BEE38078CFAC531 
+Cookie: JSESSIONID=71D63313E1F0242A2E820A5FED1C995A
+[info] [2018/7/3 18:05:51]  Start Operators request...
+[info] [2018/7/3 18:05:51]  username free to use: yonatanschonam55
+
+
+
+
+
+
+
+
+[info] [2018/7/3 18:11:41]  Start Login Request...
+[info] [2018/7/3 18:11:41]  Login Seccsefully true
+[info] [2018/7/3 18:11:42]  Login parameters were update successfully.
+
+
+[info] [2018/7/4 11:32:51]  Start Login Request...
+[info] [2018/7/4 11:32:52]  Login Seccsefully true
+[info] [2018/7/4 11:32:52]  Login parameters were update successfully.
+
+
+[info] [2018/7/4 11:34:54]  Start Login Request...
+[info] [2018/7/4 11:34:54]  Login Seccsefully true
+[info] [2018/7/4 11:34:55]  Login parameters were update successfully.
+
+
+[info] [2018/7/4 12:03:32]  Start SavedLogin Request...
+[info] [2018/7/4 12:03:32]  Login Seccsefully true
+[info] [2018/7/4 12:03:36]  Start SecurityToken Request...
+[info] [2018/7/4 12:03:36]  SecurityToken is: DAF6D40F829FB32AEB6E01E6205CB494FDEB650CF5129873749520CC2F7B21FA7F363A70EE0DE9EE6A2487CBB445F35ECC3D6EB806FCAD16C78E86AB51730642D0BAFF4D1591D1 
+Cookie: JSESSIONID=279C0D1607EB8E63F4F803F8E92A7C42
+[info] [2018/7/4 12:03:38]  Start Operators request...
+[info] [2018/7/4 12:03:38]  username free to use: yonatanschonam55
+[info] [2018/7/4 12:03:58]  Start SavedLogin Request...
+[info] [2018/7/4 12:03:58]  Login Seccsefully true
+[info] [2018/7/4 12:04:00]  Start SecurityToken Request...
+[info] [2018/7/4 12:04:00]  SecurityToken is: B42A908392F3535818B939872CCDC56E4196F6A22EFAA2D00107EE4D2B9548C0BD5FC8E8F0BC5B67832971E4B1EE8ED6D026156CDD654514BF5CF995F00411F23DA50C30E00734 
+Cookie: JSESSIONID=79E5D3B0C5A702184BE43C7E61073B82
+[info] [2018/7/4 12:04:01]  Start Operators request...
+[info] [2018/7/4 12:04:01]  username free to use: yonata
+[info] [2018/7/4 12:04:12]  Start SavedLogin Request...
+[info] [2018/7/4 12:04:12]  Login Seccsefully true
+[info] [2018/7/4 12:04:13]  Start SecurityToken Request...
+[info] [2018/7/4 12:04:13]  SecurityToken is: BF9220622AD8AC1070D3D19AB34A39B49CC60B65917F0EAD984FFE39BFC378CEB8C34DA4F542299E482D86B24CCE40EA06D15078C7EAF13A02D40AA4AC134436E7422B073049AE 
+Cookie: JSESSIONID=2DB20BD107116766AA8A187CCE34EF20
+[info] [2018/7/4 12:04:14]  Start Operators request...
+[info] [2018/7/4 12:04:14]  username already exist: yonatan

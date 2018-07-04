@@ -1,0 +1,9 @@
+
+{
+    "server": "10.55.179.206",
+    "database": "SLDDATA",
+    "user": "sa",
+    "password": "busmb",
+    "port": 1433,
+    "datebase":"OEM"
+}
