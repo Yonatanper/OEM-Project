@@ -1,5 +1,4 @@
-var express = require('express');
-process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
+//process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 let service = require('../servicedata');
 
 exports.check_user = async function (req, res) {
@@ -9,6 +8,7 @@ exports.check_user = async function (req, res) {
     res.json(result);
     res.end();
 };
+
 exports.save_customer_data = async function (req, res) {
     res.send("OK fellow...")
     res.end();

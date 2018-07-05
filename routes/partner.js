@@ -7,8 +7,8 @@ var partner_Controller = require('../controllers/partnerController');
 router.post('/Login',partner_Controller.login);
 router.get('/independentParameters',partner_Controller.independent_parameters);
 router.get('/:serviceunit/dependentParameters',partner_Controller.dependent_parameters);
-router.get('/:serviceunit=:serviceunit/COA=:localsetting',partner_Controller.login_post);
-router.post('/savePartnerData',partner_Controller.login_post);
-router.get('/getPartnerData',partner_Controller.login_post);
+router.get('/:serviceunit=:serviceunit/COA=:localsetting',partner_Controller.COA_details);
+router.post('/savePartnerData',partner_Controller.save_partner_data);
+router.get('/getPartnerData',partner_Controller.get_partner_data);
 
 module.exports = router;

@@ -243,3 +243,1425 @@ Cookie: JSESSIONID=79E5D3B0C5A702184BE43C7E61073B82
 Cookie: JSESSIONID=2DB20BD107116766AA8A187CCE34EF20
 [info] [2018/7/4 12:04:14]  Start Operators request...
 [info] [2018/7/4 12:04:14]  username already exist: yonatan
+
+
+
+
+
+
+
+
+[info] [2018/7/4 17:02:05]  Start SavedLogin Request...
+[info] [2018/7/4 17:02:05]  Login Seccsefully true
+[info] [2018/7/4 17:02:05]  Start SecurityToken Request...
+[info] [2018/7/4 17:02:06]  SecurityToken is: 3A1DEB0CCDB54416E7A245F97FAB7752DDB5DA3559E05E46AD5D67908E7EC0960C496A9B8E090A24A33AF80F5DBDF75B3C7A70F3D549E99092B5E66FBCC16B2C14AB6DCD2AABCC 
+Cookie: JSESSIONID=664EAFCAF3726681E1D15307C1F4763B
+[info] [2018/7/4 17:02:06]  Start Domain Request...
+[info] [2018/7/4 17:02:06]  Domain name is: {
+"d" : {
+"GetDomainName" : "B1CLOUD"
+}
+}
+[info] [2018/7/4 17:02:06]  Start ServiceUnits Request...
+[info] [2018/7/4 17:02:06]  Service Units are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)", "type" : "SLDModel.ServiceUnit"
+}, "CreationDate" : "\/Date(1525244400000)\/", "Purpose" : "Productive", "Description" : null, "Mode" : "", "ID" : 1739, "Version" : "920.181.08", "Name" : "SU_MSSQL", "Status" : "Online", "IntegrationComponent" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/IntegrationComponent"
+}
+}, "TenantsStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/TenantsStorage"
+}
+}, "RSPService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/RSPService"
+}
+}, "XAppService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/XAppService"
+}
+}, "SoftwareRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/SoftwareRepository"
+}
+}, "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/Group"
+}
+}, "ReferenceServiceUnit" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/ReferenceServiceUnit"
+}
+}, "AnalyticsService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/AnalyticsService"
+}
+}, "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/LicenseServer"
+}
+}, "CompanyTemplateRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/CompanyTemplateRepository"
+}
+}, "SharedFolder" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/SharedFolder"
+}
+}, "CommonDatabase" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/CommonDatabase"
+}
+}, "ImplementationRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/ImplementationRepository"
+}
+}, "Mailer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/Mailer"
+}
+}, "WorkflowServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/WorkflowServers"
+}
+}, "Tenants" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/Tenants"
+}
+}, "B1ServiceLayers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/B1ServiceLayers"
+}
+}, "B1WebServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/B1WebServers"
+}
+}, "PresentationServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/PresentationServers"
+}
+}, "MobileServices" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/MobileServices"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)", "type" : "SLDModel.ServiceUnit"
+}, "CreationDate" : "\/Date(1529910000000)\/", "Purpose" : "Productive", "Description" : null, "Mode" : "", "ID" : 222999, "Version" : "920.210.11", "Name" : "SU_HANA", "Status" : "Online", "IntegrationComponent" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/IntegrationComponent"
+}
+}, "TenantsStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/TenantsStorage"
+}
+}, "RSPService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/RSPService"
+}
+}, "XAppService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/XAppService"
+}
+}, "SoftwareRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/SoftwareRepository"
+}
+}, "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/Group"
+}
+}, "ReferenceServiceUnit" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/ReferenceServiceUnit"
+}
+}, "AnalyticsService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/AnalyticsService"
+}
+}, "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/LicenseServer"
+}
+}, "CompanyTemplateRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/CompanyTemplateRepository"
+}
+}, "SharedFolder" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/SharedFolder"
+}
+}, "CommonDatabase" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/CommonDatabase"
+}
+}, "ImplementationRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/ImplementationRepository"
+}
+}, "Mailer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/Mailer"
+}
+}, "WorkflowServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/WorkflowServers"
+}
+}, "Tenants" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/Tenants"
+}
+}, "B1ServiceLayers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/B1ServiceLayers"
+}
+}, "B1WebServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/B1WebServers"
+}
+}, "PresentationServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/PresentationServers"
+}
+}, "MobileServices" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/MobileServices"
+}
+}
+}
+]
+}, "actions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CreateServiceUnitAsync" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/CreateServiceUnitAsync", "title" : "CreateServiceUnitAsync"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.DeleteServiceUnit" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/DeleteServiceUnit", "title" : "DeleteServiceUnit"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RegisterPresentationServerAsync" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/RegisterPresentationServerAsync", "title" : "RegisterPresentationServerAsync"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RegisterBrowserAccessServerAsync" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/RegisterBrowserAccessServerAsync", "title" : "RegisterBrowserAccessServerAsync"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GenerateDomainGroups" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/GenerateDomainGroups", "title" : "GenerateDomainGroups"
+}
+]
+}, "functions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetDeployableExtensions" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/GetDeployableExtensions", "title" : "GetDeployableExtensions"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLastUpgradeSimulations" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/GetLastUpgradeSimulations", "title" : "GetLastUpgradeSimulations"
+}
+]
+}
+}
+[info] [2018/7/4 17:02:06]  Start Resellers Request...
+[info] [2018/7/4 17:02:07]  Resellers are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(1)", "type" : "SLDModel.Reseller"
+}, "Location" : null, "Country" : null, "CreationDate" : "\/Date(1525244400000)\/", "IsShared" : null, "Description" : null, "ContactPerson" : "Bob", "EmployeeCount" : null, "Phone" : null, "Name" : "Reseller H", "ID" : 1, "Email" : "BoB@resellerh.com", "Status" : "Online", "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(1)/Group"
+}
+}, "UsersStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(1)/UsersStorage"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(2)", "type" : "SLDModel.Reseller"
+}, "Location" : null, "Country" : null, "CreationDate" : "\/Date(1525244400000)\/", "IsShared" : null, "Description" : null, "ContactPerson" : "Sean", "EmployeeCount" : null, "Phone" : null, "Name" : "Reseller S", "ID" : 2, "Email" : "Sean@reseleers.com", "Status" : "Online", "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(2)/Group"
+}
+}, "UsersStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(2)/UsersStorage"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(3)", "type" : "SLDModel.Reseller"
+}, "Location" : null, "Country" : null, "CreationDate" : "\/Date(1529650800000)\/", "IsShared" : null, "Description" : null, "ContactPerson" : null, "EmployeeCount" : null, "Phone" : null, "Name" : "test", "ID" : 3, "Email" : "test@test.com", "Status" : "Online", "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(3)/Group"
+}
+}, "UsersStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(3)/UsersStorage"
+}
+}
+}
+]
+}, "actions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CheckResellerStatus" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/CheckResellerStatus", "title" : "CheckResellerStatus"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CreateReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/CreateReseller", "title" : "CreateReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetAssigningResellers" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetAssigningResellers", "title" : "GetAssigningResellers"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CheckLicenseFileIsShared" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/CheckLicenseFileIsShared", "title" : "CheckLicenseFileIsShared"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RemoveReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/RemoveReseller", "title" : "RemoveReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.AssignResources" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/AssignResources", "title" : "AssignResources"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.UnassignResources" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/UnassignResources", "title" : "UnassignResources"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.AssignResource" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/AssignResource", "title" : "AssignResource"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.UnassignResource" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/UnassignResource", "title" : "UnassignResource"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.AddUserToReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/AddUserToReseller", "title" : "AddUserToReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RemoveUserFromReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/RemoveUserFromReseller", "title" : "RemoveUserFromReseller"
+}
+]
+}, "functions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetServiceUnitsOfReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetServiceUnitsOfReseller", "title" : "GetServiceUnitsOfReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetCustomersOfReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetCustomersOfReseller", "title" : "GetCustomersOfReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicensesOfReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetLicensesOfReseller", "title" : "GetLicensesOfReseller"
+}
+]
+}
+}
+[info] [2018/7/4 17:02:07]  Start Email Request...
+[info] [2018/7/4 17:02:07]  Email: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/MailServers(2)", "type" : "SLDModel.MailServer"
+}, "SmtpSslPort" : 465, "DefaultFromEmailAddress" : "yonatan.peretz@sap.com", "SmtpSecurity" : "PLAIN", "SmtpUsername" : "Yoni", "DefaultCharset" : null, "SmtpPort" : 25, "DefaultFromEmailName" : null, "LifeCycleStatus" : "Running", "ID" : 2, "SmtpPassword" : "A12345b", "EmailDelimiter" : null, "Status" : "Online", "SmtpHost" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Machines(195723)", "type" : "SLDModel.Machine"
+}, "Hostname" : "SMTP", "Description" : null, "ID" : 195723, "Status" : "Online", "LifeCycleStatus" : "Running", "AffinityGroup" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Machines(195723)/AffinityGroup"
+}
+}, "LogicalMachineLogs" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Machines(195723)/LogicalMachineLogs"
+}
+}
+}
+}
+]
+}
+}
+[info] [2018/7/4 17:02:07]  Start Operators Request...
+[info] [2018/7/4 17:02:07]  Operators are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.UserParam"
+}, "ID" : 1, "Status" : "Active", "SystemUsername" : "b1odadmin", "Domain" : "B1CLOUD", "IsSuperSBOUser" : false, "IsPowerSBOUser" : false, "IsSupportSBOUser" : false, "IsDomainAdministrator" : false, "Roles" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.RoleParam"
+}, "ID" : 1, "Name" : "Cloud Operator"
+}
+]
+}, "EnableSecurityCodeAuthentication" : false, "SecretKeyGenerated" : false
+}, {
+"__metadata" : {
+"type" : "SLDModel.UserParam"
+}, "ID" : 2326, "Status" : "Active", "SystemUsername" : "yonatan", "Domain" : "B1CLOUD", "IsSuperSBOUser" : false, "IsPowerSBOUser" : false, "IsSupportSBOUser" : false, "IsDomainAdministrator" : false, "Roles" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.RoleParam"
+}, "ID" : 1, "Name" : "Cloud Operator"
+}
+]
+}, "EnableSecurityCodeAuthentication" : false, "SecretKeyGenerated" : false
+}, {
+"__metadata" : {
+"type" : "SLDModel.UserParam"
+}, "ID" : 3127, "Status" : "Active", "SystemUsername" : "dali", "Domain" : "B1CLOUD", "IsSuperSBOUser" : false, "IsPowerSBOUser" : false, "IsSupportSBOUser" : false, "IsDomainAdministrator" : false, "Roles" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.RoleParam"
+}, "ID" : 1, "Name" : "Cloud Operator"
+}
+]
+}, "EnableSecurityCodeAuthentication" : false, "SecretKeyGenerated" : false
+}
+]
+}
+}
+[info] [2018/7/4 17:02:07]  Start getLicenses Request...
+[info] [2018/7/4 17:02:08]  License Files are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(3)", "type" : "SLDModel.LicenseFile"
+}, "Localization" : "WW", "InstallationNumber" : "SAP-INTERN", "FileName" : "SAP-INTERN", "SystemNumber" : "000000000850201494", "Description" : "", "ID" : 3, "ExpirationDate" : "\/Date(1559890800000)\/", "Version" : "9.2", "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(3)/LicenseServer"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(4)", "type" : "SLDModel.LicenseFile"
+}, "Localization" : "WW", "InstallationNumber" : "0020149367", "FileName" : "0020149367", "SystemNumber" : "000000000850203633", "Description" : "", "ID" : 4, "ExpirationDate" : "\/Date(1531724400000)\/", "Version" : "9.2", "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(4)/LicenseServer"
+}
+}
+}
+]
+}, "actions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.ParseLicenseFile" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/ParseLicenseFile", "title" : "ParseLicenseFile"
+}
+]
+}, "functions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseModules" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseModules", "title" : "GetLicenseModules"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseModulesPerCustomer" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseModulesPerCustomer", "title" : "GetLicenseModulesPerCustomer"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseModulesBySBOUser" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseModulesBySBOUser", "title" : "GetLicenseModulesBySBOUser"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseAssignments" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseAssignments", "title" : "GetLicenseAssignments"
+}
+]
+}
+}
+[info] [2018/7/4 17:02:08]  Start getLicenseModules Request...
+[info] [2018/7/4 17:02:09]  License Modules are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 2, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 2, "Description" : "SAP Business One Professional User", "HardwareKey" : null, "ID" : 2, "Type" : "PROFESSIONAL", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99999, "Description" : "SAP AddOns", "HardwareKey" : null, "ID" : 3, "Type" : "SAP-ADDONS", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99965, "Description" : "B1i", "HardwareKey" : null, "ID" : 1, "Type" : "SAP0000007051", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99999, "Description" : "SDK Tools", "HardwareKey" : null, "ID" : 4, "Type" : "SDK-TOOLS", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(7)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 2, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 2, "Description" : "SAP Business One Limited CRM User", "HardwareKey" : null, "ID" : 7, "Type" : "CRM-LTD", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(7)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 2, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 2, "Description" : "SAP Business One Limited Logistics User", "HardwareKey" : null, "ID" : 5, "Type" : "LOGISTICS-LTD", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(6)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 1, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 1, "Description" : "B1iINDIRECT_HDB", "HardwareKey" : null, "ID" : 6, "Type" : "B1iINDIRECT", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(6)/LicenseFile"
+}
+}
+}
+]
+}
+}
+[info] [2018/7/4 17:02:09]  License Modules are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 10, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 7, "Description" : "SAP Business One Professional User", "HardwareKey" : null, "ID" : 4, "Type" : "PROFESSIONAL", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99916, "Description" : "SAP AddOns", "HardwareKey" : null, "ID" : 1, "Type" : "SAP-ADDONS", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99938, "Description" : "B1i", "HardwareKey" : null, "ID" : 2, "Type" : "SAP0000007051", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99980, "Description" : "SDK Tools", "HardwareKey" : null, "ID" : 3, "Type" : "SDK-TOOLS", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 1, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 0, "Description" : "B1iINDIRECT_MSS", "HardwareKey" : null, "ID" : 5, "Type" : "B1iINDIRECT", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)/LicenseFile"
+}
+}
+}
+]
+}
+}
+[info] [2018/7/4 17:02:16]  Start SavedLogin Request...
+[info] [2018/7/4 17:02:17]  Login Seccsefully true
+[info] [2018/7/4 17:02:19]  Start SecurityToken Request...
+[info] [2018/7/4 17:02:19]  SecurityToken is: 3ADC7D2A3DF43A2CF854E1F1F2CC92BEF193014F89EBE55568BD83EA085CBC2C7DBEF1FF84608BDCB2E322A76BB4E7B75E07AAF6461A3A9553294B4CB45F245439647A353B5A85 
+Cookie: JSESSIONID=68582A55B0F41651ACC5297A4B7A8309
+[info] [2018/7/4 17:02:19]  Start Domain Request...
+[info] [2018/7/4 17:02:19]  Domain name is: {
+"d" : {
+"GetDomainName" : "B1CLOUD"
+}
+}
+[info] [2018/7/4 17:02:19]  Start ServiceUnits Request...
+[info] [2018/7/4 17:02:20]  Service Units are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)", "type" : "SLDModel.ServiceUnit"
+}, "CreationDate" : "\/Date(1525244400000)\/", "Purpose" : "Productive", "Description" : null, "Mode" : "", "ID" : 1739, "Version" : "920.181.08", "Name" : "SU_MSSQL", "Status" : "Online", "IntegrationComponent" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/IntegrationComponent"
+}
+}, "TenantsStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/TenantsStorage"
+}
+}, "RSPService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/RSPService"
+}
+}, "XAppService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/XAppService"
+}
+}, "SoftwareRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/SoftwareRepository"
+}
+}, "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/Group"
+}
+}, "ReferenceServiceUnit" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/ReferenceServiceUnit"
+}
+}, "AnalyticsService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/AnalyticsService"
+}
+}, "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/LicenseServer"
+}
+}, "CompanyTemplateRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/CompanyTemplateRepository"
+}
+}, "SharedFolder" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/SharedFolder"
+}
+}, "CommonDatabase" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/CommonDatabase"
+}
+}, "ImplementationRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/ImplementationRepository"
+}
+}, "Mailer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/Mailer"
+}
+}, "WorkflowServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/WorkflowServers"
+}
+}, "Tenants" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/Tenants"
+}
+}, "B1ServiceLayers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/B1ServiceLayers"
+}
+}, "B1WebServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/B1WebServers"
+}
+}, "PresentationServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/PresentationServers"
+}
+}, "MobileServices" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(1739)/MobileServices"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)", "type" : "SLDModel.ServiceUnit"
+}, "CreationDate" : "\/Date(1529910000000)\/", "Purpose" : "Productive", "Description" : null, "Mode" : "", "ID" : 222999, "Version" : "920.210.11", "Name" : "SU_HANA", "Status" : "Online", "IntegrationComponent" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/IntegrationComponent"
+}
+}, "TenantsStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/TenantsStorage"
+}
+}, "RSPService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/RSPService"
+}
+}, "XAppService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/XAppService"
+}
+}, "SoftwareRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/SoftwareRepository"
+}
+}, "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/Group"
+}
+}, "ReferenceServiceUnit" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/ReferenceServiceUnit"
+}
+}, "AnalyticsService" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/AnalyticsService"
+}
+}, "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/LicenseServer"
+}
+}, "CompanyTemplateRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/CompanyTemplateRepository"
+}
+}, "SharedFolder" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/SharedFolder"
+}
+}, "CommonDatabase" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/CommonDatabase"
+}
+}, "ImplementationRepository" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/ImplementationRepository"
+}
+}, "Mailer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/Mailer"
+}
+}, "WorkflowServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/WorkflowServers"
+}
+}, "Tenants" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/Tenants"
+}
+}, "B1ServiceLayers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/B1ServiceLayers"
+}
+}, "B1WebServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/B1WebServers"
+}
+}, "PresentationServers" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/PresentationServers"
+}
+}, "MobileServices" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits(222999)/MobileServices"
+}
+}
+}
+]
+}, "actions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CreateServiceUnitAsync" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/CreateServiceUnitAsync", "title" : "CreateServiceUnitAsync"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.DeleteServiceUnit" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/DeleteServiceUnit", "title" : "DeleteServiceUnit"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RegisterPresentationServerAsync" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/RegisterPresentationServerAsync", "title" : "RegisterPresentationServerAsync"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RegisterBrowserAccessServerAsync" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/RegisterBrowserAccessServerAsync", "title" : "RegisterBrowserAccessServerAsync"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GenerateDomainGroups" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/GenerateDomainGroups", "title" : "GenerateDomainGroups"
+}
+]
+}, "functions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetDeployableExtensions" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/GetDeployableExtensions", "title" : "GetDeployableExtensions"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLastUpgradeSimulations" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/ServiceUnits/GetLastUpgradeSimulations", "title" : "GetLastUpgradeSimulations"
+}
+]
+}
+}
+[info] [2018/7/4 17:02:20]  Start Resellers Request...
+[info] [2018/7/4 17:02:20]  Resellers are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(1)", "type" : "SLDModel.Reseller"
+}, "Location" : null, "Country" : null, "CreationDate" : "\/Date(1525244400000)\/", "IsShared" : null, "Description" : null, "ContactPerson" : "Bob", "EmployeeCount" : null, "Phone" : null, "Name" : "Reseller H", "ID" : 1, "Email" : "BoB@resellerh.com", "Status" : "Online", "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(1)/Group"
+}
+}, "UsersStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(1)/UsersStorage"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(2)", "type" : "SLDModel.Reseller"
+}, "Location" : null, "Country" : null, "CreationDate" : "\/Date(1525244400000)\/", "IsShared" : null, "Description" : null, "ContactPerson" : "Sean", "EmployeeCount" : null, "Phone" : null, "Name" : "Reseller S", "ID" : 2, "Email" : "Sean@reseleers.com", "Status" : "Online", "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(2)/Group"
+}
+}, "UsersStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(2)/UsersStorage"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(3)", "type" : "SLDModel.Reseller"
+}, "Location" : null, "Country" : null, "CreationDate" : "\/Date(1529650800000)\/", "IsShared" : null, "Description" : null, "ContactPerson" : null, "EmployeeCount" : null, "Phone" : null, "Name" : "test", "ID" : 3, "Email" : "test@test.com", "Status" : "Online", "Group" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(3)/Group"
+}
+}, "UsersStorage" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers(3)/UsersStorage"
+}
+}
+}
+]
+}, "actions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CheckResellerStatus" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/CheckResellerStatus", "title" : "CheckResellerStatus"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CreateReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/CreateReseller", "title" : "CreateReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetAssigningResellers" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetAssigningResellers", "title" : "GetAssigningResellers"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.CheckLicenseFileIsShared" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/CheckLicenseFileIsShared", "title" : "CheckLicenseFileIsShared"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RemoveReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/RemoveReseller", "title" : "RemoveReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.AssignResources" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/AssignResources", "title" : "AssignResources"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.UnassignResources" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/UnassignResources", "title" : "UnassignResources"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.AssignResource" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/AssignResource", "title" : "AssignResource"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.UnassignResource" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/UnassignResource", "title" : "UnassignResource"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.AddUserToReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/AddUserToReseller", "title" : "AddUserToReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.RemoveUserFromReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/RemoveUserFromReseller", "title" : "RemoveUserFromReseller"
+}
+]
+}, "functions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetServiceUnitsOfReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetServiceUnitsOfReseller", "title" : "GetServiceUnitsOfReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetCustomersOfReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetCustomersOfReseller", "title" : "GetCustomersOfReseller"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicensesOfReseller" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/Resellers/GetLicensesOfReseller", "title" : "GetLicensesOfReseller"
+}
+]
+}
+}
+[info] [2018/7/4 17:02:20]  Start Email Request...
+[info] [2018/7/4 17:02:20]  Email: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/MailServers(2)", "type" : "SLDModel.MailServer"
+}, "SmtpSslPort" : 465, "DefaultFromEmailAddress" : "yonatan.peretz@sap.com", "SmtpSecurity" : "PLAIN", "SmtpUsername" : "Yoni", "DefaultCharset" : null, "SmtpPort" : 25, "DefaultFromEmailName" : null, "LifeCycleStatus" : "Running", "ID" : 2, "SmtpPassword" : "A12345b", "EmailDelimiter" : null, "Status" : "Online", "SmtpHost" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Machines(195723)", "type" : "SLDModel.Machine"
+}, "Hostname" : "SMTP", "Description" : null, "ID" : 195723, "Status" : "Online", "LifeCycleStatus" : "Running", "AffinityGroup" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Machines(195723)/AffinityGroup"
+}
+}, "LogicalMachineLogs" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Machines(195723)/LogicalMachineLogs"
+}
+}
+}
+}
+]
+}
+}
+[info] [2018/7/4 17:02:20]  Start Operators Request...
+[info] [2018/7/4 17:02:21]  Operators are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.UserParam"
+}, "ID" : 1, "Status" : "Active", "SystemUsername" : "b1odadmin", "Domain" : "B1CLOUD", "IsSuperSBOUser" : false, "IsPowerSBOUser" : false, "IsSupportSBOUser" : false, "IsDomainAdministrator" : false, "Roles" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.RoleParam"
+}, "ID" : 1, "Name" : "Cloud Operator"
+}
+]
+}, "EnableSecurityCodeAuthentication" : false, "SecretKeyGenerated" : false
+}, {
+"__metadata" : {
+"type" : "SLDModel.UserParam"
+}, "ID" : 2326, "Status" : "Active", "SystemUsername" : "yonatan", "Domain" : "B1CLOUD", "IsSuperSBOUser" : false, "IsPowerSBOUser" : false, "IsSupportSBOUser" : false, "IsDomainAdministrator" : false, "Roles" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.RoleParam"
+}, "ID" : 1, "Name" : "Cloud Operator"
+}
+]
+}, "EnableSecurityCodeAuthentication" : false, "SecretKeyGenerated" : false
+}, {
+"__metadata" : {
+"type" : "SLDModel.UserParam"
+}, "ID" : 3127, "Status" : "Active", "SystemUsername" : "dali", "Domain" : "B1CLOUD", "IsSuperSBOUser" : false, "IsPowerSBOUser" : false, "IsSupportSBOUser" : false, "IsDomainAdministrator" : false, "Roles" : {
+"results" : [
+{
+"__metadata" : {
+"type" : "SLDModel.RoleParam"
+}, "ID" : 1, "Name" : "Cloud Operator"
+}
+]
+}, "EnableSecurityCodeAuthentication" : false, "SecretKeyGenerated" : false
+}
+]
+}
+}
+[info] [2018/7/4 17:02:21]  Start getLicenses Request...
+[info] [2018/7/4 17:02:21]  License Files are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(3)", "type" : "SLDModel.LicenseFile"
+}, "Localization" : "WW", "InstallationNumber" : "SAP-INTERN", "FileName" : "SAP-INTERN", "SystemNumber" : "000000000850201494", "Description" : "", "ID" : 3, "ExpirationDate" : "\/Date(1559890800000)\/", "Version" : "9.2", "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(3)/LicenseServer"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(4)", "type" : "SLDModel.LicenseFile"
+}, "Localization" : "WW", "InstallationNumber" : "0020149367", "FileName" : "0020149367", "SystemNumber" : "000000000850203633", "Description" : "", "ID" : 4, "ExpirationDate" : "\/Date(1531724400000)\/", "Version" : "9.2", "LicenseServer" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles(4)/LicenseServer"
+}
+}
+}
+]
+}, "actions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.ParseLicenseFile" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/ParseLicenseFile", "title" : "ParseLicenseFile"
+}
+]
+}, "functions" : {
+"https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseModules" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseModules", "title" : "GetLicenseModules"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseModulesPerCustomer" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseModulesPerCustomer", "title" : "GetLicenseModulesPerCustomer"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseModulesBySBOUser" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseModulesBySBOUser", "title" : "GetLicenseModulesBySBOUser"
+}
+], "https://10.55.179.206:443/sld/sld0100.svc/$metadata#SLDEntities.GetLicenseAssignments" : [
+{
+"target" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseFiles/GetLicenseAssignments", "title" : "GetLicenseAssignments"
+}
+]
+}
+}
+[info] [2018/7/4 17:02:21]  Start getLicenseModules Request...
+[info] [2018/7/4 17:02:22]  License Modules are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 2, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 2, "Description" : "SAP Business One Professional User", "HardwareKey" : null, "ID" : 2, "Type" : "PROFESSIONAL", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99999, "Description" : "SAP AddOns", "HardwareKey" : null, "ID" : 3, "Type" : "SAP-ADDONS", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99965, "Description" : "B1i", "HardwareKey" : null, "ID" : 1, "Type" : "SAP0000007051", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99999, "Description" : "SDK Tools", "HardwareKey" : null, "ID" : 4, "Type" : "SDK-TOOLS", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(7)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 2, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 2, "Description" : "SAP Business One Limited CRM User", "HardwareKey" : null, "ID" : 7, "Type" : "CRM-LTD", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(7)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 2, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 2, "Description" : "SAP Business One Limited Logistics User", "HardwareKey" : null, "ID" : 5, "Type" : "LOGISTICS-LTD", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(6)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 1, "InstallationNumber" : "0020149367", "IsExpired" : false, "TotalQuota" : 0, "Available" : 1, "Description" : "B1iINDIRECT_HDB", "HardwareKey" : null, "ID" : 6, "Type" : "B1iINDIRECT", "ExpirationDate" : "\/Date(1531724400000)\/", "StartDate" : "\/Date(1523862000000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(6)/LicenseFile"
+}
+}
+}
+]
+}
+}
+[info] [2018/7/4 17:02:22]  License Modules are: {
+"d" : {
+"results" : [
+{
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 10, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 7, "Description" : "SAP Business One Professional User", "HardwareKey" : null, "ID" : 4, "Type" : "PROFESSIONAL", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(4)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99916, "Description" : "SAP AddOns", "HardwareKey" : null, "ID" : 1, "Type" : "SAP-ADDONS", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(1)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99938, "Description" : "B1i", "HardwareKey" : null, "ID" : 2, "Type" : "SAP0000007051", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(2)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 99999, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 99980, "Description" : "SDK Tools", "HardwareKey" : null, "ID" : 3, "Type" : "SDK-TOOLS", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(3)/LicenseFile"
+}
+}
+}, {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)", "type" : "SLDModel.LicenseModule"
+}, "Total" : 1, "InstallationNumber" : "SAP-INTERN", "IsExpired" : false, "TotalQuota" : 0, "Available" : 0, "Description" : "B1iINDIRECT_MSS", "HardwareKey" : null, "ID" : 5, "Type" : "B1iINDIRECT", "ExpirationDate" : "\/Date(1559890800000)\/", "StartDate" : "\/Date(1512547200000)\/", "LicenseFile" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/LicenseModules(5)/LicenseFile"
+}
+}
+}
+]
+}
+}
+
+
+[info] [2018/7/4 17:21:36]  Start SavedLogin Request...
+[info] [2018/7/4 17:21:36]  Login Seccsefully true
+[info] [2018/7/4 17:21:36]  Start SecurityToken Request...
+[info] [2018/7/4 17:21:36]  SecurityToken is: 6F3EB32F3F66AA94E8C2E18A51084B4D0CCAF00FB41FD14319D7BC4E02AF5EDD1C282197A5C2D0C4378551801E0B36BFC85D3B11D581DC68A3338EF98D158EAD4E7997624412F7 
+Cookie: JSESSIONID=D619FE3A47DD5FFDD38B53764DB2A28F
+[info] [2018/7/4 17:21:36]  Start CompanyTemplateRepo request...
+[info] [2018/7/4 17:21:37]  Company Template Repo ID: 1069
+[info] [2018/7/4 17:21:37]  Start BackupPath request...
+[info] [2018/7/4 17:21:37]  Backup path01: [object Object]
+[info] [2018/7/4 17:21:37]  Backup path11: [object Object]
+[info] [2018/7/4 17:21:37]  Backup path21: [object Object]
+[info] [2018/7/4 17:21:37]  Backup path31: [object Object]
+[info] [2018/7/4 17:21:37]  Start ImplementationRepo request...
+[info] [2018/7/4 17:21:37]  Implementation Repo ID: 1062
+[info] [2018/7/4 17:21:37]  Start PackagePath request...
+[info] [2018/7/4 17:21:38]  Package path01: [object Object]
+[info] [2018/7/4 17:21:38]  Start CommonDB Request...
+[info] [2018/7/4 17:21:38]  Common Database #: 1235
+[info] [2018/7/4 17:21:38]  Start LocalizationLists Request...
+[info] [2018/7/4 17:21:38]  Localization Lists are: AR,Argentina,AT,Austria,AU,Australia/New Zealand,BE,Belgium,BR,Brazil,CA,Canada,CH,Switzerland,CL,Chile,CN,P.R.China/Hong-Kong,CR,Costa Rica,CY,Cyprus,CZ,Czech Rep.,DE,Germany,DK,Denmark,ES,Spain,FI,Finland,FR,France,GB,United Kingdom/Ireland,GR,Greece,GT,Guatemala,HU,Hungary,IL,Israel,IN,India,IT,Italy,JP,Japan,KR,South Korea,MX,Mexico,NL,Netherlands,NO,Norway,PA,Panama,PL,Poland,PT,Portugal,RU,Russia,SE,Sweden,SG,Singapore,SK,Slovakia,TR,Turkey,US,United States Of America/Puerto Rico,ZA,South Africa
+[info] [2018/7/4 17:21:38]  Start SoftwareRepositories Request...
+[info] [2018/7/4 17:21:39]  Software Repository is: 1052
+[info] [2018/7/4 17:21:39]  Start Languages Request...
+[info] [2018/7/4 17:21:39]  Languages: English (United States),3,German,9,Simplified Chinese (P.R.China),15,Japanese(Japan),30,Dutch (Netherlands),16,Turkish,31,Arabic,32,French,22,Korean(Korea),28,Portuguese,19,Finnish (Finland),17,Norwegian (Norway),12,English (United Kingdom),8,Italian (Italy),13,Slovak (Slovakia),27,Spanish (Latin America),25,Swedish (Sweden),20,Greek (Greece),18,Spanish (Spain),23,Polish (Poland),5,Czech (Czech),26,Russian (Russia),24,Danish (Denmark),11,Hebrew (Israel),1,Hungarian (Hungary),14,Traditional Chinese,35,Portuguese (Brazil),29
+[info] [2018/7/4 17:21:39]  Start ExtensionsDeployID request...
+[info] [2018/7/4 17:21:39]  ExtensionDeployments is: 8
+[info] [2018/7/4 17:21:39]  Start ExtensionsDeployID request...
+[info] [2018/7/4 17:21:40]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\ScreenPainter", "XAppName" : null, "Vendor" : "SAP", "Name" : "Screen Painter", "ID" : 3, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:21:40]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : false, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.181.08", "Platform" : "U", "Path" : "\\\\x3\\temp\\Extensions\\Repository\\SAP\\PaymentLW\\920.181.08", "XAppName" : null, "Vendor" : "SAP", "Name" : "PaymentLW", "ID" : 6, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:21:40]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\EFM Format Definition", "XAppName" : null, "Vendor" : "SAP", "Name" : "EFM Format Definition", "ID" : 2, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:21:40]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "", "XAppName" : null, "Vendor" : "SAP", "Name" : "SBOScript", "ID" : 5, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:21:40]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.181.08", "Platform" : "U", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\DatevLW.zip", "XAppName" : null, "Vendor" : "SAP", "Name" : "DatevLW", "ID" : 1, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:21:55]  Start SavedLogin Request...
+[info] [2018/7/4 17:21:55]  Login Seccsefully true
+[info] [2018/7/4 17:21:55]  Start SecurityToken Request...
+[info] [2018/7/4 17:21:56]  SecurityToken is: C0E676425B352FA397D76F64103C6F135424E4FC293B516B227D674F4B3AB4F6B56DC36D300CD10A640926C75275D84C85AB591DC4B98476E4B10662BA9D0A0BBE8F9D488D4408 
+Cookie: JSESSIONID=7F3D1B23873AAAEC6A18895C53A26219
+[info] [2018/7/4 17:21:56]  Start CompanyTemplateRepo request...
+[info] [2018/7/4 17:21:56]  Company Template Repo ID: 1069
+[info] [2018/7/4 17:21:56]  Start BackupPath request...
+[info] [2018/7/4 17:21:56]  Backup path01: [object Object]
+[info] [2018/7/4 17:21:56]  Backup path11: [object Object]
+[info] [2018/7/4 17:21:56]  Backup path21: [object Object]
+[info] [2018/7/4 17:21:56]  Backup path31: [object Object]
+[info] [2018/7/4 17:21:56]  Start ImplementationRepo request...
+[info] [2018/7/4 17:21:57]  Implementation Repo ID: 1062
+[info] [2018/7/4 17:21:57]  Start PackagePath request...
+[info] [2018/7/4 17:21:57]  Package path01: [object Object]
+[info] [2018/7/4 17:21:57]  Start CommonDB Request...
+[info] [2018/7/4 17:21:57]  Common Database #: 1235
+[info] [2018/7/4 17:21:57]  Start LocalizationLists Request...
+[info] [2018/7/4 17:21:58]  Localization Lists are: AR,Argentina,AT,Austria,AU,Australia/New Zealand,BE,Belgium,BR,Brazil,CA,Canada,CH,Switzerland,CL,Chile,CN,P.R.China/Hong-Kong,CR,Costa Rica,CY,Cyprus,CZ,Czech Rep.,DE,Germany,DK,Denmark,ES,Spain,FI,Finland,FR,France,GB,United Kingdom/Ireland,GR,Greece,GT,Guatemala,HU,Hungary,IL,Israel,IN,India,IT,Italy,JP,Japan,KR,South Korea,MX,Mexico,NL,Netherlands,NO,Norway,PA,Panama,PL,Poland,PT,Portugal,RU,Russia,SE,Sweden,SG,Singapore,SK,Slovakia,TR,Turkey,US,United States Of America/Puerto Rico,ZA,South Africa
+[info] [2018/7/4 17:21:58]  Start SoftwareRepositories Request...
+[info] [2018/7/4 17:21:58]  Software Repository is: 1052
+[info] [2018/7/4 17:23:04]  Start Languages Request...
+[info] [2018/7/4 17:23:04]  Languages: English (United States),3,German,9,Simplified Chinese (P.R.China),15,Japanese(Japan),30,Dutch (Netherlands),16,Turkish,31,Arabic,32,French,22,Korean(Korea),28,Portuguese,19,Finnish (Finland),17,Norwegian (Norway),12,English (United Kingdom),8,Italian (Italy),13,Slovak (Slovakia),27,Spanish (Latin America),25,Swedish (Sweden),20,Greek (Greece),18,Spanish (Spain),23,Polish (Poland),5,Czech (Czech),26,Russian (Russia),24,Danish (Denmark),11,Hebrew (Israel),1,Hungarian (Hungary),14,Traditional Chinese,35,Portuguese (Brazil),29
+[info] [2018/7/4 17:23:04]  Start ExtensionsDeployID request...
+[info] [2018/7/4 17:23:05]  ExtensionDeployments is: 8
+[info] [2018/7/4 17:23:05]  Start ExtensionsDeployID request...
+[info] [2018/7/4 17:23:05]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.181.08", "Platform" : "U", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\DatevLW.zip", "XAppName" : null, "Vendor" : "SAP", "Name" : "DatevLW", "ID" : 1, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(1)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:23:05]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\EFM Format Definition", "XAppName" : null, "Vendor" : "SAP", "Name" : "EFM Format Definition", "ID" : 2, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(2)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:23:05]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":1029}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL08_HF1\\UpgradeCD\\Packages\\Add-Ons\\ScreenPainter", "XAppName" : null, "Vendor" : "SAP", "Name" : "Screen Painter", "ID" : 3, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(3)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:23:05]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : false, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.181.08", "Platform" : "U", "Path" : "\\\\x3\\temp\\Extensions\\Repository\\SAP\\PaymentLW\\920.181.08", "XAppName" : null, "Vendor" : "SAP", "Name" : "PaymentLW", "ID" : 6, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(6)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:23:05]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.181.08", "Platform" : "N", "Path" : "", "XAppName" : null, "Vendor" : "SAP", "Name" : "SBOScript", "ID" : 5, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(5)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:26:01]  Start SavedLogin Request...
+[info] [2018/7/4 17:26:02]  Login Seccsefully true
+[info] [2018/7/4 17:26:02]  Start SecurityToken Request...
+[info] [2018/7/4 17:26:02]  SecurityToken is: 912703850E02170016604B5B72CFC733BA8FA1F45704EC247629AB7E5E99363B9BD4D1C4CF486917B2D9530706472C2AC942DC00275E7DBC7F7EAE9734D63A09B14C5DC89EE874 
+Cookie: JSESSIONID=E8FA0BDAF8EB3301047A0AC3AB43C6EE
+[info] [2018/7/4 17:26:02]  Start CompanyTemplateRepo request...
+[info] [2018/7/4 17:26:02]  Company Template Repo ID: 221125
+[info] [2018/7/4 17:26:02]  Start BackupPath request...
+[info] [2018/7/4 17:26:03]  Backup path01: [object Object]
+[info] [2018/7/4 17:26:03]  Backup path11: [object Object]
+[info] [2018/7/4 17:26:03]  Backup path21: [object Object]
+[info] [2018/7/4 17:26:03]  Start ImplementationRepo request...
+[error] [2018/7/4 17:26:03]  Request Problem. No Content
+[info] [2018/7/4 17:26:03]  Start CommonDB Request...
+[info] [2018/7/4 17:26:03]  Common Database #: 221040
+[info] [2018/7/4 17:26:03]  Start LocalizationLists Request...
+[info] [2018/7/4 17:26:03]  Localization Lists are: AR,Argentina,AT,Austria,AU,Australia/New Zealand,BE,Belgium,BR,Brazil,CA,Canada,CH,Switzerland,CL,Chile,CN,P.R.China/Hong-Kong,CR,Costa Rica,CY,Cyprus,CZ,Czech Rep.,DE,Germany,DK,Denmark,ES,Spain,FI,Finland,FR,France,GB,United Kingdom/Ireland,GR,Greece,GT,Guatemala,HU,Hungary,IL,Israel,IN,India,IT,Italy,JP,Japan,KR,South Korea,MX,Mexico,NL,Netherlands,NO,Norway,PA,Panama,PL,Poland,PT,Portugal,RU,Russia,SE,Sweden,SG,Singapore,SK,Slovakia,TR,Turkey,US,United States Of America/Puerto Rico,ZA,South Africa
+[info] [2018/7/4 17:26:03]  Start SoftwareRepositories Request...
+[info] [2018/7/4 17:26:04]  Software Repository is: 221030
+[info] [2018/7/4 17:26:07]  Start Languages Request...
+[info] [2018/7/4 17:26:08]  Languages: English (United States),3,German,9,Simplified Chinese (P.R.China),15,Japanese(Japan),30,Dutch (Netherlands),16,Turkish,31,Arabic,32,French,22,Korean(Korea),28,Portuguese,19,Finnish (Finland),17,Norwegian (Norway),12,English (United Kingdom),8,Italian (Italy),13,Slovak (Slovakia),27,Spanish (Latin America),25,Swedish (Sweden),20,Greek (Greece),18,Spanish (Spain),23,Polish (Poland),5,Czech (Czech),26,Russian (Russia),24,Danish (Denmark),11,Hebrew (Israel),1,Hungarian (Hungary),14,Traditional Chinese,35,Portuguese (Brazil),29
+[info] [2018/7/4 17:26:08]  Start ExtensionsDeployID request...
+[info] [2018/7/4 17:26:08]  ExtensionDeployments is: 18
+[info] [2018/7/4 17:26:08]  Start ExtensionsDeployID request...
+[info] [2018/7/4 17:26:08]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(9)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":221030}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.210.11", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL11\\UpgradeCD\\Packages\\Add-Ons\\ScreenPainter", "XAppName" : null, "Vendor" : "SAP", "Name" : "Screen Painter", "ID" : 9, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(9)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(9)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:26:08]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(8)", "type" : "SLDModel.Extension"
+}, "ClientType" : "A", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":221030}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "LightAddOn", "SchemaVersion" : "2.1", "Version" : "920.210.11", "Platform" : "U", "Path" : "\\\\x3\\temp\\92_H_PL11\\UpgradeCD\\Packages\\Add-Ons\\DatevLW.zip", "XAppName" : null, "Vendor" : "SAP", "Name" : "DatevLW", "ID" : 8, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(8)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(8)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:26:08]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(10)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : null, "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.210.11", "Platform" : "N", "Path" : "", "XAppName" : null, "Vendor" : "SAP", "Name" : "SBOScript", "ID" : 10, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(10)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(10)/ExtensionProperties"
+}
+}
+}
+}
+[info] [2018/7/4 17:26:08]  Extensions: {
+"d" : {
+"__metadata" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(7)", "type" : "SLDModel.Extension"
+}, "ClientType" : "W", "XAppDUName" : null, "IsBuiltIn" : true, "XAppPackageName" : null, "AuxiliaryProperties" : "{\"SoftwareRepositoryID\":221030}", "XAppVendor" : null, "BindingObject" : null, "ForceFlag" : false, "Type" : "AddOn", "SchemaVersion" : null, "Version" : "920.210.11", "Platform" : "N", "Path" : "\\\\x3\\temp\\92_H_PL11\\UpgradeCD\\Packages\\Add-Ons\\EFM Format Definition", "XAppName" : null, "Vendor" : "SAP", "Name" : "EFM Format Definition", "ID" : 7, "Status" : true, "Group" : "M", "ExtensionValidities" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(7)/ExtensionValidities"
+}
+}, "ExtensionProperties" : {
+"__deferred" : {
+"uri" : "https://10.55.179.206:443/sld/sld0100.svc/Extensions(7)/ExtensionProperties"
+}
+}
+}
+}
+
+
+[info] [2018/7/5 11:12:57]  Start SavedLogin Request...
+[info] [2018/7/5 11:12:57]  Login Seccsefully true
+[info] [2018/7/5 11:12:57]  Start SecurityToken Request...
+[info] [2018/7/5 11:12:58]  SecurityToken is: C5CEAC736177A7D546AA01C6D8FFB0E9FF61CD728806070B50E70A3B83A3F4D211945B974D3B40C2E4CC6D992E150A0C18E160A104B4F4EFA8B1DB4BF0840762B893A6A08A5AC8 
+Cookie: JSESSIONID=3140887CE3BA6C1C958105E444B113DC
+[info] [2018/7/5 11:12:58]  Start CommonDB Request...
+[info] [2018/7/5 11:12:58]  Common Database #: 1235
+[info] [2018/7/5 11:12:58]  Start COA Request...
+[info] [2018/7/5 11:12:58]  COA: M,DE_IKR,N,SKR03,O,SKR04
+[info] [2018/7/5 11:13:17]  Start SavedLogin Request...
+[info] [2018/7/5 11:13:18]  Login Seccsefully true
+[info] [2018/7/5 11:13:18]  Start SecurityToken Request...
+[info] [2018/7/5 11:13:18]  SecurityToken is: E0E7D73EEBC99EBF1503B28CA85B4889B5C647ACFB2CABA8BA35938B7EC93A253756F13187814E1DC4727445928218E5D3C36AFD22B176DE08B3C409C6D3B1B397AF42EA2980EA 
+Cookie: JSESSIONID=9984ACEFC7FCF683DE456F12C4F85C03
+[info] [2018/7/5 11:13:18]  Start CommonDB Request...
+[info] [2018/7/5 11:13:18]  Common Database #: 1235
+[info] [2018/7/5 11:13:18]  Start COA Request...
+[info] [2018/7/5 11:13:19]  COA: E,ar_coa
+
+
+
+

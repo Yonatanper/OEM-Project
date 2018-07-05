@@ -1,17 +1,19 @@
+process.env.NODE_TLS_REJECT_UNAUTHORIZED = "0";
 let service = require('../servicedata');
-
 //Check Login credancials.if vakidated,save it in DB. 
 
 //TODO:password encrept
 //dcrypt password
 //send to login method
-exports.login = async function (req, res) {
+exports.login = function (req, res) {
     var url = req.body.Url;
     var account = req.body.Account;
     var pass = req.body.Password;
-    var result = await service.Login(url, account, pass);
+    var result = service.Login(url, account, pass);
     res.json(result);
+    res.end();
 }
+
 exports.independent_parameters = async function (req, res) {
     var cookie = await service.getSavedLogin();
     var token = await service.getST(cookie);
@@ -25,6 +27,7 @@ exports.independent_parameters = async function (req, res) {
     res.json({ domain, serviceunits, resellers, email, operators, licensemoudle });
     res.end();
 };
+
 exports.dependent_parameters = async function (req, res) {
     var cookie = await service.getSavedLogin();
     var token = await service.getST(cookie);
@@ -40,5 +43,26 @@ exports.dependent_parameters = async function (req, res) {
     var extensions = await service.getExtensions(cookie, token, commondb, extensionsDeployID.d.results);
     //package
     res.json({ backupPath, packagePath, localizations, srbody, languages, extensions });
+    res.end();
+};
+exports.COA_details = async function (req, res) {
+    var cookie = await service.getSavedLogin();
+    var token = await service.getST(cookie);
+    var commonDB = await service.getCommonDB(cookie, token, req.params.serviceunit);
+    var coa = await service.getCOA(cookie, token, commonDB, req.params.localsetting);
+    res.json(coa);
+    res.end();
+};
+exports.save_partner_data = async function (req, res) {
+
+    res.send("Got It! start working on partner data...")
+    res.end();
+    await service.RemovePartnerData(req.body);
+    await service.FillPartnerTables(req.body);
+};
+
+exports.get_partner_data = async function (req, res) {
+    var results = await service.PartnerData()
+    res.json(results);
     res.end();
 };
