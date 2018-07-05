@@ -9,6 +9,7 @@ var port = 30000;
 //var indexRouter = require('./routes/index');
 var customerRouter = require('./routes/customer');
 var partnerRouter = require('./routes/partner');  
+var activityRouter = require('./routes/activity');  
 
 app.listen(port, function () {
 
@@ -24,4 +25,5 @@ app.get('/', function (req, res) {
 
 //app.use('/index', indexRouter);
 app.use('/customer', customerRouter);
-app.use('/partner', partnerRouter);  
+app.use('/partner', partnerRouter); 
+app.use('/activity', activityRouter);  
