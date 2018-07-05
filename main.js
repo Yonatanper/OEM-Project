@@ -507,7 +507,7 @@ function AddDomainUsers(cookie, securityToken, usersList, domainName, id) {
     logger.info("call Users table...");
     var counter = 0;
     var usersdata = [];
-    var combinedusersList = [];
+    //var combinedusersList = [];
 
     return new Promise(function (resolve, reject) {
         for (var i = 0; i < usersList.length; i++) {

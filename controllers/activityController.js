@@ -1,10 +1,20 @@
 let service = require('../servicedata');
+let helper = require('../helpers/validation');
 
 
 exports.get_customer_data = async function (req, res) {
+   var isvalid =  await helper.InputValidation(req.params.customerID);
+    if(isvalid)
+    {
     var customerdata = await service.CustomerData(req.params.customerID);
     res.json(customerdata);
     res.end();
+    }else{
+
+        res.json('invalid input:'+req.params.customerID);
+    }
+
+
 };
 
 
